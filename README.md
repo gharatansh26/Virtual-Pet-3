@@ -1,2 +1,1 @@
-# Virtual-Pet-3
-games
+# VirtualPet-3_whiteHatJr_project
